@@ -48,7 +48,3 @@ Student management system/
 - View all students
 - Update student details
 - Delete students
-
-## 📜 License
-This project is open-source under the MIT License.
-
